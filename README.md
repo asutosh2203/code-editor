@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# JavaScript Code Editor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A basic code editor that has the ability to run HTML, CSS and JavaScript along with suggestions and code linting.
 
 ## Available Scripts
 
